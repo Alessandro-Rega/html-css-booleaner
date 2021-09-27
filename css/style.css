@@ -77,3 +77,37 @@ header h1{
 }
 
 /* fine main */
+
+/* inizio footer */
+
+footer{
+    padding-top: 50px;
+}
+
+footer div{
+    margin-bottom: 20px;
+}
+
+footer div h3{
+    color: white;
+    padding: 10px;
+}
+
+#titolo-footer{
+    color: gray;
+    margin-bottom: 20px;
+}
+
+#monitor{
+    background-image: url("/img/monitor.jpg");
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+#grafica{
+    background-image: url("/img/graph.jpg");
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+/* fine footer */
