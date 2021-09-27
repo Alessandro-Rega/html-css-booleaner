@@ -56,3 +56,24 @@ header h1{
 }
 
 /* fine header */
+
+
+/* inizio main */
+
+.paragrafo{
+    margin-top: 20px;
+}
+
+.paragrafo span{
+    background-color: yellow;
+}
+
+#lista{
+    margin-top: 30px;
+}
+
+#tabella{
+    margin: 30px;
+}
+
+/* fine main */
