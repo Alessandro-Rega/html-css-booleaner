@@ -37,6 +37,11 @@ header h1{
     font-size: 40px;
 }
 
+.autori{
+    font-size: 12px;
+    font-weight: bold;
+}
+
 #firma{
     color: gray;
     font-size: 20px;
@@ -70,6 +75,7 @@ header h1{
 
 #lista{
     margin-top: 30px;
+    list-style-position: inside;
 }
 
 #tabella{
